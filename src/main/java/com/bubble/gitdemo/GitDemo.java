@@ -14,5 +14,8 @@ public class GitDemo {
         System.out.println("demo1");
         System.out.println("demo second");
         System.out.println("hot-fix");
+        System.out.println("hot-fix1");
+        System.out.println("hot-fix1");
+        System.out.println("hot-fix1");
     }
 }
