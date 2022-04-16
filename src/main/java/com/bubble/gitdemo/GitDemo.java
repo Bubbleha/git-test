@@ -12,5 +12,6 @@ public class GitDemo {
         System.out.println("demo1");
         System.out.println("demo1");
         System.out.println("demo1");
+        System.out.println("demo second");
     }
 }
